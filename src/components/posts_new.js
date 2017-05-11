@@ -5,7 +5,7 @@ import { createPost } from '../actions/index';
 import { Link } from 'react-router';
 
 class PostsNew extends Component {
-	// NOTE: do not use context when developing applications, React may change structure later which will effect your application!
+	// NOTE: avoid using context when developing react application only use with react-router in this instance
 	static contextTypes = {
 		router: PropTypes.object
 	};
