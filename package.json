@@ -24,6 +24,7 @@
     "mocha": "^2.4.5",
     "react-addons-test-utils": "^0.14.7",
     "react-router": "^2.8.1",
+    "redux-form": "^5.2.3",
     "redux-promise": "^0.5.3",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
